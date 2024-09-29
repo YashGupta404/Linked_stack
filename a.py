@@ -1,0 +1,10 @@
+from Linked_list.Singly_Linked_Stack.stack_using_singly_linked_list import Linked_stack
+stack = Linked_stack()
+stack.push(1)
+stack.push(2)
+stack.push(3)
+stack.push(4)
+stack.push(5)
+stack.pop()
+stack.pop()
+stack.display()
